@@ -7,4 +7,4 @@
 
 <a href="paramarketcap/index.html">paramarketcap设计稿</a>
 
-<a href="CX Bridge 2/index.html">paramarketcap设计稿</a>
+<a href="CX Bridge 2/index.html">chainxbridge设计稿</a>
