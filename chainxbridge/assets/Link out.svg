@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
-    <title>Link out</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Link-out" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M5,0 L5,1.8 L2,1.8 C1.90795254,1.8 1.83042863,1.86218267 1.80714419,1.94683208 L1.8,2 L1.8,8 C1.8,8.09204746 1.86218267,8.16957137 1.94683208,8.19285581 L2,8.2 L8,8.2 C8.09204746,8.2 8.16957137,8.13781733 8.19285581,8.05316792 L8.2,8 L8.199,5 L10,5 L10,8 C10,9.1045695 9.1045695,10 8,10 L2,10 C0.8954305,10 0,9.1045695 0,8 L0,2 C0,0.8954305 0.8954305,0 2,0 L5,0 Z M10,0 L10,3.8 L8.6,3.8 L8.6,2.46 L5.56066017,5.5 C5.26776695,5.79289322 4.79289322,5.79289322 4.5,5.5 C4.20710678,5.20710678 4.20710678,4.73223305 4.5,4.43933983 L7.538,1.4 L6.2,1.4 L6.2,0 L10,0 Z" id="形状结合" fill="#979797" fill-rule="nonzero"></path>
-    </g>
-</svg>
