@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <circle id="列表为空-a" cx="28" cy="28" r="28"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="列表为空-b" fill="#fff">
+      <use xlink:href="#列表为空-a"/>
+    </mask>
+    <use fill="#F4F4F5" xlink:href="#列表为空-a"/>
+    <circle cx="38.15" cy="38.85" r="5.25" fill="#E1E1E4" mask="url(#列表为空-b)"/>
+    <rect width="28" height="4.9" x="14" y="14" fill="#E1E1E4" mask="url(#列表为空-b)" rx="2"/>
+    <rect width="28" height="4.9" x="14" y="25.2" fill="#E1E1E4" mask="url(#列表为空-b)" rx="2"/>
+    <rect width="14.7" height="4.9" x="14" y="36.4" fill="#E1E1E4" mask="url(#列表为空-b)" rx="2"/>
+  </g>
+</svg>
