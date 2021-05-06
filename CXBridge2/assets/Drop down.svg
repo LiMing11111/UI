@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Drop down</title>
+    <defs>
+        <path d="M8.4,0.2 C8.8418278,-0.13137085 9.46862915,-0.0418277999 9.8,0.4 C10.1058808,0.807841046 10.053113,1.37329269 9.69567545,1.71850414 L9.6,1.8 L5,5.25 L0.4,1.8 C-0.0418277999,1.46862915 -0.13137085,0.8418278 0.2,0.4 C0.505880785,-0.00784104603 1.06348933,-0.115510471 1.49497485,0.130970411 L1.6,0.2 L5,2.75 L8.4,0.2 Z" id="path-1"></path>
+    </defs>
+    <g id="Drop-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-down">
+            <rect id="矩形" x="0" y="0" width="12" height="12"></rect>
+            <g id="矩形" transform="translate(1.000000, 4.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#8E8E8E" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="编组" mask="url(#mask-2)">
+                    <g transform="translate(-1.000000, -4.000000)">
+                        <rect id="282828" fill="#282828" x="0" y="0" width="12" height="12"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
