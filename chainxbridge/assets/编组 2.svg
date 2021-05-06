@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="632px" viewBox="0 0 1280 632" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>编组 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1280" height="632"></rect>
+        <linearGradient x1="51.6506508%" y1="1.2421875%" x2="50%" y2="98.7578125%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="001">
+            <g id="编组-2">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#262626" xlink:href="#path-1"></use>
+                <g opacity="0.400000006" mask="url(#mask-2)">
+                    <g transform="translate(-70.000000, 0.000000)">
+                        <g id="编组" transform="translate(420.000000, 0.000000)">
+                            <line x1="640" y1="0" x2="0" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                            <line x1="700" y1="0" x2="60" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                            <line x1="760" y1="0" x2="120" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                            <line x1="820" y1="0" x2="180" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                            <line x1="880" y1="0" x2="240" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                            <line x1="940" y1="0" x2="300" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                            <line x1="1000" y1="0" x2="360" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                        </g>
+                        <g id="编组备份">
+                            <line x1="640" y1="0" x2="0" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                            <line x1="700" y1="0" x2="60" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                            <line x1="760" y1="0" x2="120" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                            <line x1="820" y1="0" x2="180" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                            <line x1="880" y1="0" x2="240" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                            <line x1="940" y1="0" x2="300" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                            <line x1="1000" y1="0" x2="360" y2="632" id="路径-2" stroke="url(#linearGradient-3)"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
