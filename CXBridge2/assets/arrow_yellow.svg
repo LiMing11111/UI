@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow_yellow</title>
+    <g id="3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="002赎回" transform="translate(-632.000000, -517.000000)">
+            <g id="编组-5" transform="translate(430.000000, 433.000000)">
+                <g id="arrow_yellow" transform="translate(202.000000, 84.000000)">
+                    <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <polygon id="路径" fill="#EFC755" fill-rule="nonzero" transform="translate(8.000000, 8.000000) rotate(-90.000000) translate(-8.000000, -8.000000) " points="7.81366818 6.13071755 7.81366818 3.32893695 2.20733548 7.99867871 7.81366818 12.6710631 7.81366818 9.86928245 13.7926645 9.86928245 13.7926645 6.13071755"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

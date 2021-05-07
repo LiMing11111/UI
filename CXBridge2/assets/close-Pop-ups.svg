@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>close-Pop-ups</title>
+    <g id="3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="001发行——成功/失败" transform="translate(-1018.000000, -104.000000)">
+            <g id="编组-11" transform="translate(666.000000, 64.000000)">
+                <g id="close-Pop-ups" transform="translate(352.000000, 40.000000)">
+                    <polygon id="路径" points="0 0 28 0 28 28 0 28"></polygon>
+                    <path d="M20.3,7.71 C19.91,7.32 19.28,7.32 18.89,7.71 L14,12.59 L9.11,7.7 C8.72,7.31 8.09,7.31 7.7,7.7 C7.31,8.09 7.31,8.72 7.7,9.11 L12.59,14 L7.7,18.89 C7.31,19.28 7.31,19.91 7.7,20.3 C8.09,20.69 8.72,20.69 9.11,20.3 L14,15.41 L18.89,20.3 C19.28,20.69 19.91,20.69 20.3,20.3 C20.69,19.91 20.69,19.28 20.3,18.89 L15.41,14 L20.3,9.11 C20.68,8.73 20.68,8.09 20.3,7.71 Z" id="路径" fill="#282828" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>warm_red</title>
+    <g id="3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="001发行请求成功" transform="translate(-490.000000, -417.000000)">
+            <g id="编组-15" transform="translate(430.000000, 307.000000)">
+                <g id="编组-26" transform="translate(40.000000, 104.000000)">
+                    <g id="warm_red" transform="translate(20.000000, 6.000000)">
+                        <circle id="椭圆形" fill="#F5222D" cx="8" cy="8" r="8"></circle>
+                        <rect id="矩形" fill="#FFFFFF" x="7" y="7.5" width="2" height="5"></rect>
+                        <rect id="矩形备份-2" fill="#FFFFFF" x="7" y="4" width="2" height="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

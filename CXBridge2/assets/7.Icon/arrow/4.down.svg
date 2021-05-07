@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>7.Icon/arrow/4.down</title>
+    <g id="3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.65">
+        <g id="003任务列表_发行列表" transform="translate(-1105.000000, -633.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="2.Navigation/Pagination/Change" transform="translate(724.000000, 621.000000)">
+                <g id="7.Icon/arrow/4.down" transform="translate(380.000000, 9.000000)">
+                    <path d="M12.0859375,3.5 L11.0605469,3.5 C10.9908203,3.5 10.9251953,3.53417969 10.8841797,3.59023438 L7,8.94414063 L3.11582031,3.59023438 C3.07480469,3.53417969 3.00917969,3.5 2.93945312,3.5 L1.9140625,3.5 C1.82519531,3.5 1.77324219,3.60117188 1.82519531,3.67363281 L6.64589844,10.3195313 C6.82089844,10.5601563 7.17910156,10.5601563 7.35273437,10.3195313 L12.1734375,3.67363281 C12.2267578,3.60117187 12.1748047,3.5 12.0859375,3.5 Z" id="fill"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
