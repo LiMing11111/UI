@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>selected_Account</title>
+    <g id="3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="002-赎回_标注2" transform="translate(-973.000000, -91.000000)">
+            <g id="编组-16" transform="translate(949.000000, 65.500000)">
+                <g id="selected_Account" transform="translate(24.000000, 26.500000)">
+                    <g id="save"></g>
+                    <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <g id="Radio单选框/Z#/Icon/悬停" fill="#FFFFFF" stroke="#F6C94A">
+                        <rect id="BG" x="0.5" y="0.5" width="15" height="15" rx="7.5"></rect>
+                    </g>
+                    <circle id="Oval-1-Copy-5" fill="#F6C94A" cx="8" cy="8" r="4"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
